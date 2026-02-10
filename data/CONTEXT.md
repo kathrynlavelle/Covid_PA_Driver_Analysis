@@ -1,8 +1,5 @@
 # DATA CONTEXT
 
-# COVID Drivers - Pennsylvania Traffic Safety
-# Kathryn Lavelle
-
 ## Data Source Description
 The Pennsylvania Department of Transportation (PennDOT) maintains comprehensive crash data covering all reportable traffic incidents throughout the state. The dataset includes detailed information about crash circumstances, vehicle types, driver characteristics, environmental conditions, and outcomes. Data covers crashes from 2005-2024 with approximately 110,000-135,000 crashes reported annually.
 
