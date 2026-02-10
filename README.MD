@@ -1,8 +1,5 @@
 # README
 
-# COVID Drivers - Pennsylvania Traffic Safety
-# Kathryn Lavelle
-
 ## Overview
 This is a knowledge discovery project focused on answering the question, "Are Pennsylvanians driving worse post-COVID?"
 The investigative analysis is based on PennDOT crash data from 2005 - 2024. The goal is to discover patterns and evidence-based insights to inform the general public about statistically-sigificant behavior or traffic safety trends. 
